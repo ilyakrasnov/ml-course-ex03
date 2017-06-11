@@ -8,7 +8,9 @@ Given the logistic regression algorithm developed in [Ex02][1], the goal was to 
 
 ### Tools and Implementation
 The algorithm was implemented in Python, using Pandas for data frame manipulation as well as seaborn and matplotlib for visualisation.
-For convenience, the project was implemented using a jupyter notebook. The notebook as well as this report are under version control and can be found on [github][2]
+For convenience, the project was implemented using a jupyter notebook.
+
+The notebook containing the code can be found [here][2].
 
 ### Implemented Algorithm
 The basic algorithm from [Ex02][1] was used to calculate the accuracy of a given dataset.
